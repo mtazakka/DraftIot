@@ -64,8 +64,3 @@ buck-out/
 /vendor/bundle/
 
 # etc
-src_delivero/
-src_json_server/
-src_laundry/
-src_default/
-package_laundry.json
