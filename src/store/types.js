@@ -1,0 +1,11 @@
+export const CHANGE_SPEED = 'CHANGE_SPEED';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const LOGIN = 'LOGIN';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const LOGOUT = 'LOGOUT';
+export const CHANGE_STEPPER = 'CHANGE_STEPPER';
+export const CURRENT_SPEED = 'CURRENT_SPEED';
+export const MQTT_CONNECT = 'MQTT_CONNECT';
+export const MQTT_DISCONNECT = 'MQTT_DISCONNECT';
